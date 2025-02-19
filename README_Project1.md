@@ -46,7 +46,7 @@ Run the provided MATLAB script to:
 - Compute expected returns and risk measures.
 
 ## Author
-[Your Name]
+Aviel Avshalumov
 
 ## License
 This project is licensed under the MIT License.
